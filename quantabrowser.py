@@ -1,3 +1,11 @@
+#
+#       Author: Pulsar
+#       Date: 13.01.12020/2020
+#       Python-Version: 3.8.2
+#       The QuantaWebBrowser
+#       GitHub: https://www.github.com/Woodnet
+#       Twitter: https://www.twitter.com/7Pulsar
+#
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
